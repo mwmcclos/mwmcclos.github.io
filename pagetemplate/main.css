@@ -2,10 +2,12 @@ body {
   padding-top: 5rem;
   margin-left: 20px;
   margin-right: 20px;
+  text-align: left;
 }
 
 .header {
   font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 200;
 }
 
 .navbar{
