@@ -1,0 +1,57 @@
+body {
+  padding-top: 5rem;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: left;
+  font-family: 'Corinthia', cursive;
+  font-family: 'IM Fell DW Pica', serif;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 100;
+  font-size: large;
+}
+
+.header {
+  font-family: 'Corinthia', cursive;
+  font-size: 50px;
+  text-align: center;
+  margin-top: -70px;
+}
+
+
+.fa-facebook {
+  padding: 9px;
+  font-size: xx-large;
+  width: 5px;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa-instagram {
+  padding: 9px;
+  font-size: xx-large;
+  width: 5px;
+  text-decoration: none;
+  border-radius: 60%;
+}
+
+.fa-twitter {
+  padding: 20px;
+  font-size: xx-large;
+  width: 5px;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.card {
+  margin: auto;
+  float: none;
+  margin-bottom: 10px;
+}
+
+.name {
+  font-family: 'Playfair Display', serif;
+}
+
+.content {
+  font-family: 'Noto Sans', sans-serif;
+}
